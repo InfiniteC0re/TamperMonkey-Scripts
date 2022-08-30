@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Lolz Contest AdBlock
-// @version      0.1
+// @version      0.2
 // @description  Скрывает контент постов с розыгрышами
 // @author       InfiniteC0re
 // @homepage     https://github.com/InfiniteC0re/TamperMonkey-Scripts
