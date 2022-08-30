@@ -4,8 +4,8 @@
 // @description  Скрывает контент постов с розыгрышами
 // @author       InfiniteC0re
 // @homepage     https://github.com/InfiniteC0re/TamperMonkey-Scripts
-// @downloadURL  https://github.com/InfiniteC0re/TamperMonkey-Scripts/master/lolz-contest-adblock.js
-// @updateURL    https://github.com/InfiniteC0re/TamperMonkey-Scripts/master/lolz-contest-adblock.js
+// @downloadURL  https://raw.githubusercontent.com/InfiniteC0re/TamperMonkey-Scripts/main/lolz-contest-adblock.js
+// @updateURL    https://raw.githubusercontent.com/InfiniteC0re/TamperMonkey-Scripts/main/lolz-contest-adblock.js
 // @match        https://lolz.guru/threads/*
 // @icon         https://lolz.guru/favicon.svg
 // @grant        none
