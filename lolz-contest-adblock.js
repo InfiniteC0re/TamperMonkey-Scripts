@@ -15,12 +15,13 @@
 
 (function() {
     'use strict';
-    let contentBlock = document.querySelector(".messageText.SelectQuoteContainer.baseHtml.ugc");
     let contestBlock = document.querySelector(".contestThreadBlock");
-    let pollBlock = document.querySelector(".PollContainer")
-
+    
     if (contestBlock) {
-        contentBlock.remove();
-        pollBlock.remove();
+        let contentBlock = document.querySelector(".messageText.SelectQuoteContainer.baseHtml.ugc");
+        let pollBlock = document.querySelector(".PollContainer");
+
+        if (contentBlock) contentBlock.remove();
+        if (pollBlock) pollBlock.remove();
     }
 })();
