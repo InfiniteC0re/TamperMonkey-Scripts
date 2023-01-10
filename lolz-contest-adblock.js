@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Lolz Contest AdBlock
-// @version      0.4
+// @version      0.5
 // @description  Скрывает контент постов с розыгрышами
 // @author       InfiniteC0re
 // @homepage     https://github.com/InfiniteC0re/TamperMonkey-Scripts
@@ -8,6 +8,7 @@
 // @updateURL    https://raw.githubusercontent.com/InfiniteC0re/TamperMonkey-Scripts/main/lolz-contest-adblock.js
 // @match        https://lolz.guru/threads/*
 // @match        https://zelenka.guru/threads/*
+// @match        https://lolz.live/threads/*
 // @icon         https://lolz.guru/favicon.svg
 // @run-at       document-end
 // @grant        none
